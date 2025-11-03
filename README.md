@@ -154,7 +154,11 @@ Revisaremos el archivo `views/layouts/main.handlebars`:
 </html>
 ```
 
-Observa que usamos `{{pageTitle}}` - cada página podrá pasar su propio título.
+Aqui tenemos que identificar lo siguiente:
+
+1. Observa que usamos `{{pageTitle}}` - cada página podrá pasar su propio título.
+1. El menú de navegación ha sido añadido ya `<nav>`
+1. `{{{body}}}` es la etiqueta que desplegará el contenido de cada página que visitaremos.
 
 ---
 
