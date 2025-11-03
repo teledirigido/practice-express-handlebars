@@ -1,0 +1,30 @@
+{
+  "name": "María González",
+  "bio": "Desarrolladora web full-stack apasionada por crear experiencias digitales accesibles y eficientes. Me encanta enseñar y compartir conocimiento.",
+  "profileImage": "https://placehold.co/600x400",
+  "occupation": "Desarrolladora Web",
+  "location": "Madrid, España",
+  "socialMedia": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/mariagonzalez"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://linkedin.com/in/mariagonzalez"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/mariagonzalez"
+    }
+  ],
+  "interests": [
+    "JavaScript",
+    "CSS",
+    "Accesibilidad Web",
+    "Open Source",
+    "Fotografía",
+    "Senderismo"
+  ],
+  "email": "maria.gonzalez@example.com"
+}

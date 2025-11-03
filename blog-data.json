@@ -1,0 +1,90 @@
+{
+  "blogTitle": "DevWeb Blog",
+  "blogDescription": "Tutoriales y consejos sobre desarrollo web moderno",
+  "posts": [
+    {
+      "id": 1,
+      "title": "CSS Grid vs Flexbox",
+      "excerpt": "Aprende cuándo usar Grid o Flexbox para tus layouts. Ambos son poderosos pero tienen diferentes propósitos en el diseño responsive.",
+      "content": "CSS Grid es ideal para layouts bidimensionales, mientras que Flexbox funciona mejor en una dimensión. Grid te da control total del espacio.",
+      "author": "María González",
+      "date": "2025-10-15",
+      "category": "CSS",
+      "tags": ["css", "layout", "responsive"],
+      "image": "https://placehold.co/400x300",
+      "comments": 12
+    },
+    {
+      "id": 2,
+      "title": "JavaScript Async/Await",
+      "excerpt": "Simplifica tu código asíncrono con async/await. Es más legible que las promesas encadenadas y facilita el manejo de errores.",
+      "content": "Async/await hace que el código asíncrono parezca síncrono. Usa try/catch para manejar errores de forma clara y evita el callback hell.",
+      "author": "María González",
+      "date": "2025-10-08",
+      "category": "JavaScript",
+      "tags": ["javascript", "async", "promises"],
+      "image": "https://placehold.co/400x300",
+      "comments": 8
+    },
+    {
+      "id": 3,
+      "title": "Responsive Design Tips",
+      "excerpt": "Diseña primero para móvil y escala hacia arriba. Mobile-first mejora la experiencia y optimiza el rendimiento en todos los dispositivos.",
+      "content": "Usa media queries con min-width, unidades relativas como rem, y prueba en dispositivos reales. El diseño responsive es esencial hoy día.",
+      "author": "María González",
+      "date": "2025-09-30",
+      "category": "Design",
+      "tags": ["responsive", "mobile", "design"],
+      "image": "https://placehold.co/400x300",
+      "comments": 15
+    },
+    {
+      "id": 4,
+      "title": "Git Básico",
+      "excerpt": "Domina los comandos esenciales de Git. Commit, push, pull y branch son todo lo que necesitas para empezar con control de versiones.",
+      "content": "Git es fundamental para cualquier desarrollador. Aprende a hacer commits significativos, crear ramas y resolver conflictos de merge.",
+      "author": "María González",
+      "date": "2025-09-22",
+      "category": "Tools",
+      "tags": ["git", "version-control", "github"],
+      "image": "https://placehold.co/400x300",
+      "comments": 20
+    },
+    {
+      "id": 5,
+      "title": "API REST",
+      "excerpt": "Entiende los principios REST para crear APIs escalables. Los métodos HTTP y códigos de estado son la base de toda comunicación web.",
+      "content": "Una API REST usa HTTP methods: GET para leer, POST para crear, PUT para actualizar y DELETE para eliminar. Simple pero poderoso.",
+      "author": "María González",
+      "date": "2025-09-14",
+      "category": "Backend",
+      "tags": ["api", "rest", "http"],
+      "image": "https://placehold.co/400x300",
+      "comments": 10
+    },
+    {
+      "id": 6,
+      "title": "Performance Web",
+      "excerpt": "Optimiza la velocidad de carga de tu sitio. Imágenes comprimidas, lazy loading y minificación pueden reducir el tiempo de carga drásticamente.",
+      "content": "Mide con Lighthouse, optimiza imágenes con WebP, usa CDN y minifica CSS/JS. Cada segundo cuenta para retener usuarios en tu sitio.",
+      "author": "María González",
+      "date": "2025-09-05",
+      "category": "Performance",
+      "tags": ["performance", "optimization", "speed"],
+      "image": "https://placehold.co/400x300",
+      "comments": 18
+    },
+    {
+      "id": 7,
+      "title": "Debugging en Chrome",
+      "excerpt": "Las DevTools de Chrome son tu mejor aliado. Breakpoints, console y network panel te ayudan a encontrar y solucionar bugs rápidamente.",
+      "content": "Usa breakpoints para pausar ejecución, inspecciona el DOM en tiempo real, y analiza peticiones en el Network tab. Debugging efectivo.",
+      "author": "María González",
+      "date": "2025-08-28",
+      "category": "Tools",
+      "tags": ["debugging", "chrome", "devtools"],
+      "image": "https://placehold.co/400x300",
+      "comments": 14
+    }
+  ]
+}
